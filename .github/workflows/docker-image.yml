@@ -20,3 +20,4 @@ jobs:
           context: .
           push: true
           tags: sed786/python1:latest
+          
